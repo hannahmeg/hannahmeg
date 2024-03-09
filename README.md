@@ -4,9 +4,9 @@
   <a href="https://ibb.co/k8HM921"><img src="https://i.ibb.co/pz0nRjy/e6bdee484bd5bd0726815ce66019cd0e.png" alt="e6bdee484bd5bd0726815ce66019cd0e" border="0" width="1800" />  </a>
 </div>
 
-                                                 ⊹˚. 命に嫌われている。 - カンザキイオリ 
-                                                 🤍───────────────────────────────────
-                                                  ◄◄  ► ►► ⠀↻⇆  0:00 / 4:34  🔊 ──○─⠀
+                                               ⊹˚. 命に嫌われている。 - カンザキイオリ 
+                                               🤍───────────────────────────────────
+                                                ◄◄  ► ►► ⠀↻⇆  0:00 / 4:34  🔊 ──○─⠀
 
 <!--
 **hannahmeg/hannahmeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
