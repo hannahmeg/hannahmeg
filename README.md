@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/MHboUUIoxzOKs/giphy.gif" width="1800"/>
+  <img src="https://ibb.co/dGSwcCF" width="1800"/>
 </div>
 <!--
 **hannahmeg/hannahmeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
