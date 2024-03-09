@@ -1,11 +1,5 @@
 # Hi there! ♡︎ 🧸˚୨୧⋆｡🍥˚ ⋆ 
 
-<div id="header" align="center">
- 
- <a href="https://ibb.co/k8HM921"><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" alt="e6bdee484bd5bd0726815ce66019cd0e" border="0" width="100" />
-</div>
-
-
 
 <div id="header" align="center">
  
