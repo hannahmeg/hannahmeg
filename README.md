@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://ibb.co/dGSwcCF" width="1800"/>
+ 
+  <a href="https://ibb.co/dGSwcCF"><img src="https://i.ibb.co/TmZxTj6/EPz-YSo2-Wo-AAc-M4p.jpg" alt="EPz-YSo2-Wo-AAc-M4p" border="0" /></a>
 </div>
 <!--
 **hannahmeg/hannahmeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
